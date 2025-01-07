@@ -28,8 +28,8 @@ The **Nokia HR Analytics Project** involves analyzing employee attendance data t
 - **Power Query**: For data transformation and cleaning before analysis.
 
 ## Screenshots
-![Daily Summary Dashboard](images/Screenshot_1)
-![Daily Summary Dashboard](images/Screenshot_2)
+![Daily Summary Dashboard](images/Screenshot_1.png)
+![Daily Summary Dashboard](images/Screenshot_2.png)
 ## Installation and Setup
 
 To get started with the project, follow these steps:
